@@ -6,4 +6,4 @@ Forked from <a href="https://github.com/thejameskyle/the-super-tiny-compiler">Su
 
 Converted to TypeScript as an exercise.
 
-The project has been created by Visual Studio. If you use a different IDE, you may want to jump to <a href="https://github.com/Orif/the-super-tiny-compiler/blob/master/src">source code</a>.
+The project has been created by Visual Studio. If you use a different IDE, you may want to jump to <a href="https://github.com/Orif/the-super-tiny-compiler/tree/master/TinyBasicCompiler/src">source code</a>.
