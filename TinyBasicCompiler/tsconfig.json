@@ -1,0 +1,10 @@
+﻿{
+  "compilerOptions": {
+    "noImplicitAny": true,
+    "noImplicitReturns": true,
+    "outDir": "./output"
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}
